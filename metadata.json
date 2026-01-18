@@ -1,0 +1,5 @@
+{
+  "name": "Addy-Cydenti NHI Graph Explorer",
+  "description": "A cybersecurity dashboard for visualizing Non-Human Identities (NHI), AI Agents, and their risk relationships across cloud environments.",
+  "requestFramePermissions": []
+}
